@@ -1,5 +1,5 @@
 # Belajar Java Dasar
 
-ini adalah project belajar java dasar di channel :
+ini adalah project belajar java dasar  :
 
-Programmer Zaman Now
+Read File
