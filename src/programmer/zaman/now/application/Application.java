@@ -1,7 +1,9 @@
 package programmer.zaman.now.application;
 
+import programmer.zaman.now.annotation.Fancy;
 import programmer.zaman.now.data.Product;
 
+@Fancy(name ="App", tags = {"apli", "java"})
 public class Application {
     public static void main(String[] args) {
 
